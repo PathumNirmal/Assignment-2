@@ -50,4 +50,10 @@ git commit -am "Questions Answers"
 On branch branch1
 nothing to commit, working tree clean
 
+#12. check that your working directory is clean with git status
+git status
+On branch branch1
+nothing to commit, working tree clean
+
+
 
