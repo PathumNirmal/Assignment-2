@@ -20,3 +20,8 @@ touch anotherfile.txt
 branch1
 Switched to a new branch 'branch1'
 
+#6. Make changes to your files
+
+
+
+
