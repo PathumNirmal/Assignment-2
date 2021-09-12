@@ -45,4 +45,9 @@ Changes to be committed:
 
 #10. make the commit with git commit.
 
+#11. Write a meaningful commit message (e.g. "Answers question 1").
+git commit -am "Questions Answers"
+On branch branch1
+nothing to commit, working tree clean
+
 
