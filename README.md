@@ -16,4 +16,7 @@ git add Q1.txt
 #4. Add another file to do the following
 touch anotherfile.txt
 
+#5. Create another branch .
+branch1
+Switched to a new branch 'branch1'
 
