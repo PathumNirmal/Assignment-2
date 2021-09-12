@@ -135,3 +135,8 @@ Date:   Sun Sep 12 22:05:23 2021 +0530
 
     Initial commit
 
+
+
+#14. Push your code up to a github repository
+git push origin branch1
+
