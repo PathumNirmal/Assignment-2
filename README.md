@@ -22,6 +22,15 @@ Switched to a new branch 'branch1'
 
 #6. Make changes to your files
 
+#7. see if the file change is detected with git status.
+$ git status
+On branch branch1
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Q1.txt
 
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        anotherfile.txt
 
 
