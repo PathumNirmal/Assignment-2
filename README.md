@@ -36,4 +36,11 @@ Untracked files:
 #8. stage the changes with git add .
 git add .
 
+#9. check that the add did what you expected with git status.
+On branch branch1
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   README.md
+	modified:   anotherfile.txt
+
 
