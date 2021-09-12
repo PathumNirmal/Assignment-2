@@ -43,4 +43,6 @@ Changes to be committed:
 	modified:   README.md
 	modified:   anotherfile.txt
 
+#10. make the commit with git commit.
+
 
